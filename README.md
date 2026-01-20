@@ -177,6 +177,6 @@ Motor, hangi kuralın çalıştığını ve çalışmayanların neden elendiğin
 
 <div align="center">
 
-**Made with ❤️ by JavaEnginePro Team**
+**Made with ❤️ by Harun Isik**
 
 </div>
