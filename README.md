@@ -50,7 +50,7 @@ graph LR
     B -->|Değerlendir| D{Eşleşme Var mı?};
     D -- Evet --> E[🚀 Action Dispatcher];
     D -- Hayır --> F[📝 Trace Log Oluştur];
-    E --> G[Aksiyonu Çalıştır\n(Block, Alert, Log)];
+    E --> G["Aksiyonu Çalıştır\n(Block, Alert, Log)"];
     G --> H[✅ Sonuç Döndür];
     F --> H;
 ```
